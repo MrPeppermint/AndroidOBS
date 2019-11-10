@@ -1,0 +1,8 @@
+firebase link
+
+https://console.firebase.google.com/u/1/project/ecommerces-67a33/database/ecommerces-67a33/data
+
+
+github link
+
+https://github.com/MrPeppermint/AndroidOBS
